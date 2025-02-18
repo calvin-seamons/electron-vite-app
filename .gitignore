@@ -2,3 +2,4 @@ node_modules/
 dist/
 dist-electron/
 database.sqlite
+debug-toall/*

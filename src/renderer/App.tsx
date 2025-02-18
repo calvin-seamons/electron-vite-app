@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, useNavigate, useLocation } from 'react-router-dom';
-import { Home, Folder } from 'lucide-react';
+import { Home } from 'lucide-react';
 import Header from './components/common/Header/Header';
 import HomePage from './pages/HomePage';
 import ProjectPage from './pages/ProjectPage';
